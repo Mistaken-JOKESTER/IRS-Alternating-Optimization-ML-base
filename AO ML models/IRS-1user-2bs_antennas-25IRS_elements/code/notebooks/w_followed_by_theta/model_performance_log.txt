@@ -1,0 +1,6 @@
+Training Loss MSE: 0.1574, Validation Loss MSE: 0.1591, Test Loss MSE: 0.1577
+Training MAE: 0.2762, Validation MAE: 0.2777, Test MAE: 0.2765
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (0.00001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------

@@ -1,0 +1,42 @@
+Training Loss MSE: 0.0035, Validation Loss MSE: 0.0036, Test Loss MSE: 0.0035
+Training MAE: 0.0333, Validation MAE: 0.0337, Test MAE: 0.0336
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (0.0000001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------
+Training Loss MSE: 0.0058, Validation Loss MSE: 0.0058, Test Loss MSE: 0.0059
+Training MAE: 0.0382, Validation MAE: 0.0383, Test MAE: 0.0384
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (0.00001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------
+Training Loss MSE: 0.0119, Validation Loss MSE: 0.0119, Test Loss MSE: 0.0120
+Training MAE: 0.0491, Validation MAE: 0.0491, Test MAE: 0.0493
+Remark: Good fit.
+He intialized , L2 Regularized (0.0001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------
+Training Loss MSE: 0.0119, Validation Loss MSE: 0.0119, Test Loss MSE: 0.0120
+Training MAE: 0.0491, Validation MAE: 0.0491, Test MAE: 0.0493
+Remark: Good fit.
+He intialized , L2 Regularized (0.0001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------
+Training Loss MSE: 0.0381, Validation Loss MSE: 0.0381, Test Loss MSE: 0.0382
+Training MAE: 0.0715, Validation MAE: 0.0715, Test MAE: 0.0717
+Remark: Good fit.
+He intialized , L2 Regularized (0.001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------
+Training Loss MSE: 0.0181, Validation Loss MSE: 0.0180, Test Loss MSE: 0.0181
+Training MAE: 0.0581, Validation MAE: 0.0581, Test MAE: 0.0582
+Remark: Good fit.
+He intialized , L2 Regularized (0.0003), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------
+Training Loss MSE: 0.0057, Validation Loss MSE: 0.0057, Test Loss MSE: 0.0058
+Training MAE: 0.0380, Validation MAE: 0.0380, Test MAE: 0.0381
+Remark: Good fit.
+He intialized , L2 Regularized (0.00001), Dropout (0.001) Early stop (Patience 10),
+layers: 314, 256, 128, 100, 64
+-------------------------------------------

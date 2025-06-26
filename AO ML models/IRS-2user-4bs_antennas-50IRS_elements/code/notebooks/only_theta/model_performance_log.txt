@@ -1,0 +1,124 @@
+
+*******************************************************************************************************
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (1e-08), dropout(0.001), early stop (20), batch normalization
+
+Number of hidden layers: 6
+Layer 1: 1024 neurons
+Layer 2: 512 neurons
+Layer 3: 256 neurons
+Layer 4: 150 neurons
+Layer 5: 128 neurons
+Layer 6: 128 neurons
+
+Training loss: 0.24972489476203918
+Validation loss: 0.32726097106933594
+Test loss: 0.3265187740325928
+
+
+Training and Validation Losses for each epoch:
+Epoch 1: Training loss = 1.0008, Validation loss = 0.9777
+Epoch 11: Training loss = 0.5065, Validation loss = 0.5018
+Epoch 21: Training loss = 0.4037, Validation loss = 0.4121
+Epoch 31: Training loss = 0.3607, Validation loss = 0.3791
+Epoch 41: Training loss = 0.3379, Validation loss = 0.3619
+Epoch 51: Training loss = 0.3258, Validation loss = 0.3517
+Epoch 61: Training loss = 0.3162, Validation loss = 0.3456
+Epoch 71: Training loss = 0.3070, Validation loss = 0.3449
+Epoch 81: Training loss = 0.3030, Validation loss = 0.3348
+Epoch 91: Training loss = 0.2990, Validation loss = 0.3304
+*******************************************************************************************************
+
+*******************************************************************************************************
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (1e-08), dropout(0.001), early stop (20), batch normalization
+
+Number of hidden layers: 7
+Layer 1: 1024 neurons
+Layer 2: 1024 neurons
+Layer 3: 512 neurons
+Layer 4: 256 neurons
+Layer 5: 150 neurons
+Layer 6: 128 neurons
+Layer 7: 128 neurons
+
+Training loss: 0.20416505634784698
+Validation loss: 0.27947762608528137
+Test loss: 0.27884215116500854
+
+
+Training and Validation Losses for each epoch:
+Epoch 1: Training loss = 1.0004, Validation loss = 0.9780
+Epoch 11: Training loss = 0.4485, Validation loss = 0.4488
+Epoch 21: Training loss = 0.3479, Validation loss = 0.3638
+Epoch 31: Training loss = 0.3097, Validation loss = 0.3354
+Epoch 41: Training loss = 0.2895, Validation loss = 0.3195
+Epoch 51: Training loss = 0.2752, Validation loss = 0.3107
+Epoch 61: Training loss = 0.2642, Validation loss = 0.2980
+Epoch 71: Training loss = 0.2568, Validation loss = 0.2909
+Epoch 81: Training loss = 0.2481, Validation loss = 0.2851
+Epoch 91: Training loss = 0.2454, Validation loss = 0.2841
+*******************************************************************************************************
+
+*******************************************************************************************************
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (1e-08), dropout(0.001), early stop (20), batch normalization
+
+Number of hidden layers: 8
+Layer 1: 1024 neurons
+Layer 2: 1024 neurons
+Layer 3: 512 neurons
+Layer 4: 512 neurons
+Layer 5: 256 neurons
+Layer 6: 150 neurons
+Layer 7: 128 neurons
+Layer 8: 128 neurons
+
+Training loss: 0.20180745422840118
+Validation loss: 0.27550771832466125
+Test loss: 0.27628880739212036
+
+
+Training and Validation Losses for each epoch:
+Epoch 1: Training loss = 1.0035, Validation loss = 0.9866
+Epoch 11: Training loss = 0.4465, Validation loss = 0.4402
+Epoch 21: Training loss = 0.3380, Validation loss = 0.3567
+Epoch 31: Training loss = 0.3017, Validation loss = 0.3280
+Epoch 41: Training loss = 0.2791, Validation loss = 0.3159
+Epoch 51: Training loss = 0.2693, Validation loss = 0.3163
+Epoch 61: Training loss = 0.2566, Validation loss = 0.2944
+Epoch 71: Training loss = 0.2496, Validation loss = 0.2823
+Epoch 81: Training loss = 0.2484, Validation loss = 0.2784
+Epoch 91: Training loss = 0.2366, Validation loss = 0.2774
+*******************************************************************************************************
+
+*******************************************************************************************************
+Remark: Possible overfitting detected.
+He intialized , L2 Regularized (1e-08), dropout(0.001), early stop (20), batch normalization
+
+Number of hidden layers: 7
+Layer 1: 1024 neurons
+Layer 2: 1024 neurons
+Layer 3: 512 neurons
+Layer 4: 512 neurons
+Layer 5: 256 neurons
+Layer 6: 128 neurons
+Layer 7: 128 neurons
+
+Training loss: 0.18624737858772278
+Validation loss: 0.2600690722465515
+Test loss: 0.2594475746154785
+
+
+Training and Validation Losses for each epoch:
+Epoch 1: Training loss = 0.9995, Validation loss = 0.9761
+Epoch 11: Training loss = 0.3992, Validation loss = 0.3987
+Epoch 21: Training loss = 0.3150, Validation loss = 0.3331
+Epoch 31: Training loss = 0.2801, Validation loss = 0.3099
+Epoch 41: Training loss = 0.2620, Validation loss = 0.2928
+Epoch 51: Training loss = 0.2500, Validation loss = 0.2822
+Epoch 61: Training loss = 0.2423, Validation loss = 0.2776
+Epoch 71: Training loss = 0.2347, Validation loss = 0.2701
+Epoch 81: Training loss = 0.2280, Validation loss = 0.2661
+Epoch 91: Training loss = 0.2253, Validation loss = 0.2612
+*******************************************************************************************************
